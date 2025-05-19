@@ -1,0 +1,9 @@
+[ajwoong] Mon May 19 17:46:08 2025 +0900 과제2 diagram pdf 변환 605d7a1
+[ajwoong] Mon May 19 14:55:21 2025 +0900 과제2 analysis class diagram 설계 7a9c9b0
+[ajwoong] Mon May 19 00:52:36 2025 +0900 과제2 communication diagram 작성 7d9a7da
+[ajwoong] Sun May 18 19:44:20 2025 +0900 과제2 use case description 수정 cf8c17c
+[ajwoong] Sun May 18 19:43:40 2025 +0900 과제2 use case description 수정 ecf3ad6
+[ajwoong] Thu May 15 18:53:00 2025 +0900 과제2 use case description 수정 e753379
+[ajwoong] Thu May 15 18:38:55 2025 +0900 과제2 requirement list 수정 bde15f7
+[ajwoong] Thu May 15 18:38:11 2025 +0900 과제2 use case desription 수정 7b7103c
+[ajwoong] Thu May 15 18:28:07 2025 +0900 과제2 use case diagram 수정 b8aebb1

@@ -11652,7 +11652,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 644,
-									"width": 80.380859375,
+									"width": 85.02394104003906,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwL4D0mBbBNE="
@@ -11850,7 +11850,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 708,
-									"width": 80.380859375,
+									"width": 85.02394104003906,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwL4h4mCE1YI="
@@ -12048,7 +12048,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 764,
-									"width": 80.380859375,
+									"width": 85.02394104003906,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwL45WWCtTBI="
@@ -12444,7 +12444,7 @@
 									"containerExtending": true,
 									"left": 236,
 									"top": 876,
-									"width": 80.380859375,
+									"width": 85.02394104003906,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwL7KdWEspPc="
@@ -13580,7 +13580,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 96,
-									"width": 80.380859375,
+									"width": 85.02394104003906,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwMGo6mIgcys="
@@ -13778,7 +13778,7 @@
 									"containerExtending": true,
 									"left": 740,
 									"top": 148,
-									"width": 80.380859375,
+									"width": 85.02394104003906,
 									"height": 36,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFFwMGrimJIfxU="
@@ -22513,7 +22513,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5tHn3I3hW5Q="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -22521,7 +22522,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5tHn3I3hW5Q="
 							},
-							"name": "password"
+							"name": "password",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -22529,7 +22531,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5tHn3I3hW5Q="
 							},
-							"name": "phone"
+							"name": "phone",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -22568,7 +22571,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5ufdRNSgIJU="
 							},
-							"name": "id"
+							"name": "id",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -22576,7 +22580,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5ufdRNSgIJU="
 							},
-							"name": "productName"
+							"name": "productName",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -22584,7 +22589,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5ufdRNSgIJU="
 							},
-							"name": "rentStatus"
+							"name": "rentStatus",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -22707,7 +22713,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGW5vVFFhNO/b0="
 							},
-							"name": "loggedInMember"
+							"name": "loggedInMember",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -23072,7 +23079,7 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 88.72998046875,
+											"left": 87.47998046875,
 											"top": 101,
 											"width": 33.7349853515625,
 											"height": 13,
@@ -23088,7 +23095,7 @@
 											"parentStyle": true,
 											"left": 69,
 											"top": 101,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -25739,7 +25746,7 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 72.72998046875,
+											"left": 71.47998046875,
 											"top": 93,
 											"width": 44.97998046875,
 											"height": 13,
@@ -25755,7 +25762,7 @@
 											"parentStyle": true,
 											"left": 53,
 											"top": 93,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -27938,9 +27945,9 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 96.72998046875,
+											"left": 95.47998046875,
 											"top": 125,
-											"width": 59.8367919921875,
+											"width": 59.64396667480469,
 											"height": 13,
 											"text": "자전거 등록"
 										},
@@ -27954,7 +27961,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 125,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -29672,9 +29679,9 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 120.72998046875,
+											"left": 119.47998046875,
 											"top": 109,
-											"width": 59.8367919921875,
+											"width": 59.64396667480469,
 											"height": 13,
 											"text": "자전거 대여"
 										},
@@ -29688,7 +29695,7 @@
 											"parentStyle": true,
 											"left": 101,
 											"top": 109,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -32798,9 +32805,9 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 144.72998046875,
+											"left": 143.47998046875,
 											"top": 173,
-											"width": 112.0404052734375,
+											"width": 111.46192932128906,
 											"height": 13,
 											"text": "자전거 대여 정보 조회"
 										},
@@ -32814,7 +32821,7 @@
 											"parentStyle": true,
 											"left": 125,
 											"top": 173,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -35043,7 +35050,7 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 80.72998046875,
+											"left": 79.47998046875,
 											"top": 117,
 											"width": 44.97998046875,
 											"height": 13,
@@ -35059,7 +35066,7 @@
 											"parentStyle": true,
 											"left": 61,
 											"top": 117,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -37156,7 +37163,8 @@
 								}
 							}
 						}
-					]
+					],
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -37193,7 +37201,8 @@
 								}
 							}
 						}
-					]
+					],
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -37201,7 +37210,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGW5uCnnKIq8Mk="
 					},
-					"name": "Role4"
+					"name": "Role4",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",

@@ -1,3 +1,4 @@
+[ajwoong] Mon May 19 21:57:03 2025 +0900 과제2 diagram 수정 c212b23
 [ajwoong] Mon May 19 20:49:56 2025 +0900 과제2 diagram 수정 0f0c52e
 [ajwoong] Mon May 19 18:30:10 2025 +0900 과제2 diagram 수정 6b44710
 [ajwoong] Mon May 19 17:50:04 2025 +0900 과제2 개인코드 깃허브 주소 추가 9f2c225

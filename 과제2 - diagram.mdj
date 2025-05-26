@@ -36609,7 +36609,7 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 80.72998046875,
+											"left": 79.47998046875,
 											"top": 101,
 											"width": 33.7349853515625,
 											"height": 13,
@@ -36625,7 +36625,7 @@
 											"parentStyle": true,
 											"left": 61,
 											"top": 101,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -38992,7 +38992,7 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 96.72998046875,
+											"left": 95.47998046875,
 											"top": 101,
 											"width": 44.97998046875,
 											"height": 13,
@@ -39008,7 +39008,7 @@
 											"parentStyle": true,
 											"left": 77,
 											"top": 101,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -41485,9 +41485,9 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 64.72998046875,
+											"left": 63.47998046875,
 											"top": 125,
-											"width": 59.8367919921875,
+											"width": 59.64396667480469,
 											"height": 13,
 											"text": "자전거 등록"
 										},
@@ -41501,7 +41501,7 @@
 											"parentStyle": true,
 											"left": 45,
 											"top": 125,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -43918,9 +43918,9 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 104.72998046875,
+											"left": 103.47998046875,
 											"top": 101,
-											"width": 59.8367919921875,
+											"width": 59.64396667480469,
 											"height": 13,
 											"text": "자전거 대여"
 										},
@@ -43934,7 +43934,7 @@
 											"parentStyle": true,
 											"left": 85,
 											"top": 101,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -48295,9 +48295,9 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 136.72998046875,
+											"left": 135.47998046875,
 											"top": 165,
-											"width": 112.0404052734375,
+											"width": 111.46192932128906,
 											"height": 13,
 											"text": "자전거 대여 정보 조회"
 										},
@@ -48311,7 +48311,7 @@
 											"parentStyle": true,
 											"left": 117,
 											"top": 165,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -51561,7 +51561,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGW44t76nK6rrU="
 					},
-					"name": "Role7"
+					"name": "Role7",
+					"type": ""
 				}
 			]
 		},
@@ -51607,7 +51608,7 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 64.72998046875,
+											"left": 63.47998046875,
 											"top": 117,
 											"width": 44.97998046875,
 											"height": 13,
@@ -51623,7 +51624,7 @@
 											"parentStyle": true,
 											"left": 45,
 											"top": 117,
-											"width": 13.72998046875,
+											"width": 12.47998046875,
 											"height": 13,
 											"text": "sd"
 										}

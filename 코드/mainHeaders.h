@@ -43,3 +43,25 @@
 
 // 회원이 대여한 자전거 리스트를 조회하는 기능을 담당하는 컨트롤 클래스
 #include "control/MemberBicycle.h"
+
+
+/*
+    Boundary 클래스 헤더 파일
+*/
+// 회원가입을 담당하는 boundary 클래스
+#include "boundary/JoinUI.h"
+
+// 로그인을 담당하는 boundary 클래스
+#include "boundary/LoginUI.h"
+
+// 로그아웃을 담당하는 boundary 클래스
+#include "boundary/LogoutUI.h"
+
+// 자전거 등록을 담당하는 boundary 클래스
+#include "boundary/AddBicycleUI.h"
+
+// 자전거 대여를 담당하는 boundary 클래스
+#include "boundary/RentBicycleUI.h"
+
+// 회원이 대여한 자전거 리스트 조회를 담당하는 boundary 클래스
+#include "boundary/MemberBicycleListUI.h"

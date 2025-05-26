@@ -19,7 +19,6 @@
 #include "entity/RentedBicycleCollection.h"
 
 
-
 /*
     Contorl 클래스 헤더 파일
 */
@@ -44,6 +43,9 @@
 // 회원이 대여한 자전거 리스트를 조회하는 기능을 담당하는 컨트롤 클래스
 #include "control/MemberBicycle.h"
 
+// 시스템 종료를 담당하는 클래스
+#include "control/ExitSystem.h"
+
 
 /*
     Boundary 클래스 헤더 파일
@@ -65,3 +67,6 @@
 
 // 회원이 대여한 자전거 리스트 조회를 담당하는 boundary 클래스
 #include "boundary/MemberBicycleListUI.h"
+
+// 시스템 종료를 담당하는 boundary 클래스
+#include "boundary/ExitUI.h"

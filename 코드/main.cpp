@@ -16,10 +16,10 @@ using namespace std;
 //
 // 메뉴 번호 6 1이 입력되면 해당 시스템이 종료된다.
 void doTask(ifstream& in_fp, ofstream& out_fp, JoinUI& joinUI, LoginUI& loginUI, LogoutUI& logoutUI,
-            AddBicycleUI& addBicycleUI, RentBicycleUI& rentBicycleUI, MemberBicycleListUI& memberBicycleListUI) {
+            AddBicycleUI& addBicycleUI, RentBicycleUI& rentBicycleUI, MemberBicycleListUI& memberBicycleListUI, ExitUI& exitUI) {
 
     int menu1 = 0, menu2 = 0;
-    int is_program_exit = 0;
+    bool is_program_exit = false;
 
     while (!is_program_exit) {
     
@@ -49,8 +49,7 @@ void doTask(ifstream& in_fp, ofstream& out_fp, JoinUI& joinUI, LoginUI& loginUI,
 
             case 6:
                 if (menu2 == 1) { // 6 1 (시스템 종료 메뉴)
-                    out_fp << "6.1. 종료" << endl; 
-                    is_program_exit = 1;
+                    is_program_exit = exitUI.requestExit();
                 }
                 break;
         }
@@ -78,6 +77,7 @@ int main() {
     AddBicycle addBicycle(&bicycleList, &session);
     RentBicycle rentBicycle(&bicycleList, &session);
     MemberBicycle memberBicycle(&session);
+    ExitSystem exitSystem;
 
     // Boundary 객체 생성 및 파일 스트림 주입
     JoinUI joinUI(&joinMember, in_fp, out_fp);
@@ -86,10 +86,11 @@ int main() {
     AddBicycleUI addBicycleUI(&addBicycle, in_fp, out_fp);
     RentBicycleUI rentBicycleUI(&rentBicycle, in_fp, out_fp);
     MemberBicycleListUI memberBicycleListUI(&memberBicycle, out_fp);
+    ExitUI exitUI(&exitSystem, out_fp);
 
     // 사용자 명령 수행
     doTask(in_fp, out_fp, joinUI, loginUI, logoutUI,
-           addBicycleUI, rentBicycleUI, memberBicycleListUI);
+           addBicycleUI, rentBicycleUI, memberBicycleListUI, exitUI);
 
     // 파일 스트림 종료
     in_fp.close();
